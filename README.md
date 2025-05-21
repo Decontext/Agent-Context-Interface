@@ -10,10 +10,10 @@ This repository provides an example of how to interact with the DCTX Agent Conte
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/yourusername/dctx-aci-sdk-example.git
-cd dctx-aci-sdk-example
+git clone https://github.com/Decontext/Agent-Context-Interface.git
+cd Agent-Context-Interface
 npm install
-npm run start
+npm start
 ```
 
 ## 📁 Structure
